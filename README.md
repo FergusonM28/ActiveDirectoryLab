@@ -17,32 +17,37 @@ In this lab I have created an Active Directory home lab Environment using Oracle
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Downloaded Virtual Box: <br/>
+<img src="https://i.imgur.com/iPGYfEg.png" height="80%" width="80%" 
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+Create a domain pt 1:  <br/>
+<img src="https://i.imgur.com/In2WlOB.png" height="80%" width="80%" 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a domain pt 2: <br />
+<img src="https://i.imgur.com/8ELmHvF.png" height="80%" width= "80%"
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured DHCP server: <br/>
+<img src="https://i.imgur.com/ucfELtu.png" height="80%" width="80%" 
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up RAS/NAT pt 1:  <br/>
+<img src="https://i.imgur.com/0n6sV4i.png" height="80%" width="80%" 
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up RAS/NAT pt 2:  <br/> 
+<img src="https://i.imgur.com/kN2rIyf.png" height="80%" width="80%" 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created users using PowerShell:  <br/>
+<img src="https://i.imgur.com/CWbjf1D.png" height="80%" width="80%" 
+<br />
+<br />
+Created different organizational units by department:  <br/>
+<img src="https://i.imgur.com/x1RvQb7.png" height="80%" width="80%" 
 </p>
 
 <!--
@@ -54,3 +59,22 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+<br />
+Delegate user permissions:  <br/>
+<img src="https://i.imgur.com/jyUiRaS.png" height="80%" width="80%" 
+<br />
+<br />
+Assigned logon hours:  <br/>
+<img src="https://i.imgur.com/Vnxh5lr.png" height="80%" width="80%" 
+<br />
+<br />
+
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
